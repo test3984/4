@@ -1,0 +1,4 @@
+/dev/mapper/vgubuntu-root /               ext4    errors=remount-ro 0       1
+UUID=f37d58e1-1a9f-4afc-8075-0bda19e44563 /boot           ext4    defaults        0       2
+UUID=2A52-AAAA  /boot/efi       vfat    umask=0077      0       1
+/dev/mapper/vgubuntu-swap_1 none            swap    sw              0       0
